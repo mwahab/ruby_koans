@@ -2,3 +2,5 @@ dist
 .project_env.rc
 .path_progress
 *.rbc
+*.swp
+.DS_Store
